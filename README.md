@@ -1,4 +1,6 @@
 <h1>Hi there! I'm Fathur. 👋 </h1>
+<p><a href="https://github.com/mfathur" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/mfathoer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ### About Me
 - 🔭 Software engineering enthusiast
@@ -23,9 +25,4 @@
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=go&logoColor=white" />
-</p>
-
-###  :telephone_receiver: Let's Connect
-
-<p><a href="https://github.com/mfathur" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/mfathoer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
