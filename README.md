@@ -1,5 +1,5 @@
 <h1>Hi there! I'm Fathur. 👋 </h1>
-<p><a href="https://github.com/mfathur" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/mfathoer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/mfathoer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/mfathoer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ### About Me
@@ -7,7 +7,7 @@
 - :books: I like to read books and articles, especially in tech and a little bit about economic
 - ⚡ Fun fact: I :heart: Gaming (Mobile & XBOX Gaming)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfathur&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfathoer&layout=compact&theme=vision-friendly-dark)
 
 ### :hammer_and_wrench: Languages and Tools
 
