@@ -25,4 +25,5 @@
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-B7178C?style=flat-square&logo=php&logoColor=white" />
 </p>
