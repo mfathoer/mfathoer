@@ -7,8 +7,6 @@
 - :books: I like to read books and articles, especially in tech and a little bit about economic
 - ⚡ Fun fact: I :heart: Gaming (Mobile & XBOX Gaming)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfathoer&layout=compact&theme=vision-friendly-dark)
-
 ### :hammer_and_wrench: Languages and Tools
 
 <p>Frontend</p>
